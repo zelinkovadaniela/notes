@@ -1,0 +1,1 @@
+&copy; 2016 <?php echo config::get('DanielaZelinkova', 'set copyright_owner in config'); ?>
